@@ -1802,3 +1802,9 @@ jlidrych:
 - RecoLocalTracker/SubCollectionProducers
 lenzip:
 - PhysicsTools/NanoAODTools
+adzel-werk:
+- Configuration
+- HLTrigger
+- Alignment
+- RecoTracker
+- RecoLocalTracker
