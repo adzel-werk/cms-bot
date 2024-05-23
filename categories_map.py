@@ -466,6 +466,7 @@ CMSSW_CATEGORIES = {
         "CondTools/BeamSpot",
         "CondTools/CTPPS",
         "CondTools/DQM",
+        "CondTools/DeDx",
         "CondTools/DT",
         "CondTools/Ecal",
         "CondTools/GEM",
